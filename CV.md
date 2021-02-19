@@ -25,22 +25,22 @@ Honors: _summa cum laude_, Honors College Degree
     - Performing DNA extraction and library preparation, including PCR, gel electrophoresis, normalization, and quantification using Qubit, bioanalyzer, and qPCR for Illumina Miseq sequencing.  
     - Assisting with microbiome sampling in nursery swine.      
 
- * OSU Animal Genomics Lab, Undergraduate Research Assistant | January 2017 – August 2019   
+ * OSU Animal Genomics Lab, Undergraduate Research Assistant | January 2017 – August 2019  
     - Microbiologically characterized commensal bacteria found in healthy equine uteri through single colony purification, 16srRNA sequencing, and culturomics techniques.   
     - Completed real time and endpoint polymerase chain reaction (PCR) and gel electrophoresis in order to evaluate DNA expression and purity.   
     - Used NanoDrop microvolume spectrophotometer to measure DNA, RNA, and protein concentrations.   
 
- * Oklahoma Animal Disease Diagnostic Lab, Student Lab Technician | March 2017 – July 2019   
+ * Oklahoma Animal Disease Diagnostic Lab, Student Lab Technician | March 2017 – July 2019  
     - Analyzed bacteria colonies through plating and streaking techniques.   
     - Identified genus and species of bacteria colonies by using a MALDI-TOF Biotyper.   
     - Determined antibiotic susceptibility of bacteria colonies by using a Sensititre Complete Automated System.   
 
- * UT Southwestern Medical Center, Summer Undergraduate Research Fellow | June 2018 – August 2018   
+ * UT Southwestern Medical Center, Summer Undergraduate Research Fellow | June 2018 – August 2018  
     - Demonstrated CRISPR SAM success in gene overexpression using cells from murine small cell lung cancer.   
     - Utilized an Auxin-inducible degradation (AID) system to degrade EWS-FLI1 in Ewing Sarcoma cells.   
     - Knocked in a Tet-On 3G tetracycline-inducible expression system into the Ewing Sarcoma cell line, A673.   
 
- * Noble Research Institute, Lloyd Noble Scholar in Agriculture | May 2017 – August 2017   
+ * Noble Research Institute, Lloyd Noble Scholar in Agriculture | May 2017 – August 2017  
     - Completed project that analyzed the phenotypic traits local cattle producers looked for when selecting their replacement herd.   
     - Assessed the heritability and economic values of these traits.   
     - Examined local producer acceptability of DNA testing.   
@@ -53,11 +53,11 @@ Honors: _summa cum laude_, Honors College Degree
 
 ### **Teaching Experience:**
 
- * UARK ANSC, Animal Breeding and Genetics TA | January 2020 – May 2020, January 2021 - Present   
+ * UARK ANSC, Animal Breeding and Genetics TA | January 2020 – May 2020, January 2021 - Present  
     - Presented lectures to the class when the professor was traveling.   
     - Graded tests, quizzes, and homework for a class of 54-56 students.   
 
- * OSU AFS, Animal Reproduction Undergraduate TA | January 2019 – May 2019   
+ * OSU AFS, Animal Reproduction Undergraduate TA | January 2019 – May 2019  
     - Assisted students in understanding topics in lab.   
     - Graded labs and tests for a class of over 170 students.   
 
