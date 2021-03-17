@@ -30,7 +30,7 @@ print()
  
 # load the necessary modules
 print('# load required modules')
-print('module load')
+print("module load python/3.7.3-anaconda")
 print()
  
 # cd into the directory where you're submitting this script from

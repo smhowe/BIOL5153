@@ -28,6 +28,7 @@ print()
 print('# load modules')
 print('module purge')
 print('module load gcc/7.2.1')
+print("module load python/3.7.3-anaconda")
 print()
 
 #commands for this job
