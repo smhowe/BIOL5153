@@ -1,6 +1,10 @@
 # BIOL5153
-assn03.tgz committed to main branch and pushed to GitHub on 3/14/21 is the submission for BIOL5153: Assignment 3.
+assn03.tgz: Submission for BIOL5153:Assignment 3 over using BLAST and the AHPCC
 
+write_razor_pbs.py: Submission for BIOL5153: Assignment 4; produces PBS script   
 
-![](C:/Users/Samantha Howe/Pictures/screenshot.png)
-The above photo is part of the assignment 4 submission. It shows the pwd and script commands as well as the write_razor_pbs.py output.
+write_pinnacle_slurm.py: Submission for BIOL5153:Assignment 4: produces SLURM script
+
+![](C:/Users/Samantha Howe/Pictures/screenshot_final.png)
+
+Above photo shows pwd, script command, and output; Submission for BIOL5153:Assignment 4
