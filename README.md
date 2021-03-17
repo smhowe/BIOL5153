@@ -5,6 +5,6 @@ write_razor_pbs.py: Submission for BIOL5153: Assignment 4; produces PBS script
 
 write_pinnacle_slurm.py: Submission for BIOL5153:Assignment 4: produces SLURM script
 
-![](https://github.com/smhowe/BIOL5153/blob/main/assignment4_screenshot.png?raw=true)   
+![](https://github.com/smhowe/BIOL5153/blob/main/assn04_screenshot.PNG?raw=true)   
 Above photo shows pwd, script command, and output; Submission for BIOL5153:Assignment 4
 
