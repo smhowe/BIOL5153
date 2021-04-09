@@ -31,7 +31,7 @@ with open(args.gff, 'r') as gff_in:
     for line in reader:
         start  = int(line[3])-1 # extracts the start position and converts to integer, -1 ensures the first nucleotide is included
         end    = int(line[4])   # extracts the end position and converts to integer
-        strand = line[6]        # extracts the which strand the feature is on (ie + or -)
+        strand = line[6]        # extracts the which strand the feature is on (ie. + or -)
         info   = line[8]        # extracts the information needed for header 
         
         # print the fasta header 
