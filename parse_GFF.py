@@ -32,13 +32,12 @@ with open(args.gff, 'r') as gff_in:
         start  = int(line[3])-1 # extracts the start position and converts to integer, -1 ensures the first nucleotide is included
         end    = int(line[4])   # extracts the end position and converts to integer
         strand = line[6]        # extracts the which strand the feature is on (ie + or -)
-        info   = line[8]        # extracts the information needed for header
-        rev    = genome.seq.reverse_complement() # creates the reverse complement of the sequence 
+        info   = line[8]        # extracts the information needed for header 
         
         # print the fasta header 
         print('>' + genome.id, info)
        
         # extract sequence
         if strand == '-': #if the strand is -
-            print(rev[start:end]) # print the sequence from the rev variable according to start and end coordinates
+            print(genome.seq[start:end].reverse_complement()) # extract the sequence according to the start and end coordinates and then print the reverse complement
         else: print(genome.seq[start:end]) # if strand is not - (ie. +) print the sequnece accoring to start and end coordinates
