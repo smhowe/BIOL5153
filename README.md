@@ -10,3 +10,5 @@ Above photo shows pwd, script command, and output; Submission for BIOL5153:Assig
 
 nucleotide_composition.py: Submission for BIOL5153:Assignment 5; script calculates DNA sequence nucleotide composition 
 
+parse_GFF.py: Submission for Assignment BIOL5153:Assignment 6 and 7; parses a GFF file, extracts corresponding sequence, calculates reverse complement (if applicable), and splices the exon sequences together to produce CDS for each gene.
+  
